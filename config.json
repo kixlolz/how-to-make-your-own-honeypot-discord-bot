@@ -1,0 +1,8 @@
+{
+  "honeypotChannelId": "123456789012345678",
+  "logChannelId": "123456789012345678",
+  "punishment": "ban",
+  "timeoutDurationMs": 600000,
+  "dmUser": true,
+  "dmMessage": "You triggered our honeypot channel. This server uses anti-scam traps."
+}
