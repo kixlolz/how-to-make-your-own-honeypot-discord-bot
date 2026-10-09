@@ -1,0 +1,6 @@
+# In a new folder
+git init
+# paste all files above
+git add .
+git commit -m "Initial commit: discord honeypot bot"
+gh repo create discord-honeypot-bot --public --source=. --push
